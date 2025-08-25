@@ -1,7 +1,7 @@
 <h1 align="center">📱 LifeOS - Habit Tracker App</h1>
 
 <p align="center">
-  <img src="Images/ss1.jpg" alt="LifeOS Banner"/>
+  <img src="Images/ss2.jpg" alt="LifeOS Banner" width="200" height="100"/>
 </p>
 
 <h3 align="center">✨ Build Better Habits. Boost Your Productivity. ✨</h3>
@@ -39,13 +39,13 @@ This project is my personal journey to understand how <b>frontend</b> and <b>bac
 <h2>🖼️ App Screenshots</h2>
 
 <p align="center">
-  <img src="IMAGES/ss2.jpg" width="250" style="border-radius: 15px; margin: 10px;" />
-  <img src="IMAGES/ss3.jpg" width="250" style="border-radius: 15px; margin: 10px;" />
-  <img src="IMAGES/ss4.jpg" width="250" style="border-radius: 15px; margin: 10px;" />
+  <img src="Images/ss1.jpg" width="250" style="border-radius: 15px; margin: 10px;" />
+  <img src="Images/ss3.jpg" width="250" style="border-radius: 15px; margin: 10px;" />
+  <img src="Images/ss4.jpg" width="250" style="border-radius: 15px; margin: 10px;" />
 </p>
 
 <p align="center">
-  <img src="IMAGES/ss5.jpg" width="250" style="border-radius: 15px; margin: 10px;" />
+  <img src="Images/ss5.jpg" width="250" style="border-radius: 15px; margin: 10px;" />
 <!--   <img src="IMAGES/ss5.png" width="250" style="border-radius: 15px; margin: 10px;" />
   <img src="IMAGES/ss6.png" width="250" style="border-radius: 15px; margin: 10px;" /> -->
 </p>
