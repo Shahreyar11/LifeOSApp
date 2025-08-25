@@ -1,7 +1,7 @@
 <h1 align="center">📱 LifeOS - Habit Tracker App</h1>
 
 <p align="center">
-  <img src="Images/ss2.jpg" alt="LifeOS Banner" width="200" height="100"/>
+  <img src="Images/ss2.jpg" alt="LifeOS Banner" width="300" height="500"/>
 </p>
 
 <h3 align="center">✨ Build Better Habits. Boost Your Productivity. ✨</h3>
